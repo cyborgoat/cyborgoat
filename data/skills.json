@@ -1,0 +1,26 @@
+{
+    "Artificial Intelligence": [
+        {
+            "name": "Natural Language Processing",
+            "points": 90
+        },
+        {
+            "name": "Computer Vision",
+            "points": 90
+        },
+        {
+            "name": "Machine Learning",
+            "points": 85
+        }
+    ],
+    "frontend": [
+        {
+            "name": "HTML&CSS",
+            "points": 80
+        },
+        {
+            "name": "Javascript",
+            "points": 80
+        }
+    ]
+}

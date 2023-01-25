@@ -1,0 +1,37 @@
+[
+    {
+        "org": "HUAWEI Technologies",
+        "role": "Senior Algorithm Engineer",
+        "logo": "https://www.huawei.com/-/media/corporate/images/home/logo/new-logo.png",
+        "start": "2021-09",
+        "end": "present"
+    },
+    {
+        "org": "HUAWEI Technologies",
+        "role": "Algorithm Engineer",
+        "logo": "https://www.huawei.com/-/media/corporate/images/home/logo/new-logo.png",
+        "start": "2020-09",
+        "end": "2021-09"
+    },
+    {
+        "org": "Carnegie Mellon University",
+        "role": "M.S. in Electrical and Computer Engineering",
+        "logo": "https://www.huawei.com/-/media/corporate/images/home/logo/new-logo.png",
+        "start": "2019-01",
+        "end": "2020-06"
+    },
+    {
+        "org": "Chinese Academy of Science",
+        "role": "Research Assistant at Chongqing Big Data Lab",
+        "logo": "https://www.huawei.com/-/media/corporate/images/home/logo/new-logo.png",
+        "start": "2018-12",
+        "end": "2018-05"
+    },
+    {
+        "org": "Drexel University",
+        "role": "B.S in Physics",
+        "logo": "https://www.huawei.com/-/media/corporate/images/home/logo/new-logo.png",
+        "start": "2017-06",
+        "end": "2013-09"
+    }
+]
