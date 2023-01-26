@@ -15,6 +15,19 @@
         "projects": []
     },
     {
+        "org": "NIO Inc.",
+        "role": "Algorithm Engineer Intern",
+        "logo": "https://dsm01pap004files.storage.live.com/y4mJPVFbWUGdyK7Rejuad_o5b1V4_Y4_0oI38eTDX2QqcCXoEoUjaeU04BuaYk86zwsnwJuPUlt87X-1cwCL88f5I7xuGCd7zMkeAxi-9YqERSbzrg5JutMZ6KbNAEqQvkhReebmlxwb51Nuod1oBgTblWUkbVqly-rRtesmCpdMADXwjOvL4_Mmj9DLgmDvhhp?width=256&height=171&cropmode=none",
+        "period": "2019.6-2019.9",
+        "projects": [
+            {
+                "title": "GPS coordinate correction system",
+                "period": "2019.06-2019.09",
+                "desc": "Using Scala language, based on OpenStreetMap (global road map) and vehicle GPS equipment data, a design based onTime-series GPS correction system with Viterbi algorithm and real-time update to Hive database"
+            }
+        ]
+    },
+    {
         "org": "Carnegie Mellon University",
         "role": "M.S. in Electrical and Computer Engineering",
         "logo": "https://dsm01pap004files.storage.live.com/y4mtA5bVoF_nKjcFQa5W4zt_QNVJdE_EQRpwQMkDLYM-lfITVV2nRS7TlHJzXtE5mGH3w2ei0HBvVuPCDEIzexbJg-IxDqi0T6KGx4z7yKIvNyJ7JUPdLUNj-v0QCLMYyST4sXukxX82--cl31Szv2YqgnwXeWrduY-97lXS57tr-g_GL8lZYiCRaHUM8B1K9pg?width=600&height=600&cropmode=none",
@@ -38,21 +51,32 @@
             {
                 "title": "End-to-End speech to text transcription System",
                 "period": "2019.10-2019.12",
-                "desc":"Designed an end-to-end system for speech to text transcription with combination of techniques of LSTM, CNN, Encoder, Decododer and Attention method for WSJ dataset, the final result achieved less than 10 Levenshtein distance on test dataset after 60 epochs."
+                "desc": "Designed an end-to-end system for speech to text transcription with combination of techniques of LSTM, CNN, Encoder, Decododer and Attention method for WSJ dataset, the final result achieved less than 10 Levenshtein distance on test dataset after 60 epochs."
             }
         ]
     },
     {
         "org": "Chinese Academy of Sciences",
         "role": "Research Assistant at Chongqing Big Data Lab",
-        "logo": "https://dsm01pap004files.storage.live.com/y4mtA5bVoF_nKjcFQa5W4zt_QNVJdE_EQRpwQMkDLYM-lfITVV2nRS7TlHJzXtE5mGH3w2ei0HBvVuPCDEIzexbJg-IxDqi0T6KGx4z7yKIvNyJ7JUPdLUNj-v0QCLMYyST4sXukxX82--cl31Szv2YqgnwXeWrduY-97lXS57tr-g_GL8lZYiCRaHUM8B1K9pg?width=600&height=600&cropmode=none",
+        "logo": "https://dsm01pap004files.storage.live.com/y4mMfooCH4erg4jWiIXMguevWptM1ncu3yezLwUhQZNd1dxqdYGQQhDXfbVSzay9SZ5WTwppetkuZ0zLhXvw6NWDLtjHwkOF_CHKffTlTLmPNFcAdJcflxXS8_9Laf06fIB-uOmKC_4j-kC2Az6gPVJHpKOoPXKh6B3X8KWO-vddpE_hMzftYMNEr10l4aaFuNV?width=233&height=217&cropmode=none",
         "period": "2018.05 - 2018.12",
-        "projects": []
+        "projects": [
+            {
+                "title": "Movie Recommender System",
+                "period": "2018.05-2018.10",
+                "desc": "Participated in the research project on the recommendation system, and proposed a high-dimensional sparse algorithm based on the use of elastic network and latent feature model According to the recommendation algorithm above, the obtained results are improved by 0.001RMSE compared with the traditional latent feature-based model."
+            },
+            {
+                "title": "EEG Signal Processing Survey",
+                "period": "2018.10-2018.12",
+                "desc": "Participated in the research on the extraction and classification of EEG signal features in recent years, and summarized related algorithms"
+            }
+        ]
     },
     {
         "org": "Drexel University",
         "role": "B.S in Physics",
-        "logo": "https://dsm01pap004files.storage.live.com/y4mtA5bVoF_nKjcFQa5W4zt_QNVJdE_EQRpwQMkDLYM-lfITVV2nRS7TlHJzXtE5mGH3w2ei0HBvVuPCDEIzexbJg-IxDqi0T6KGx4z7yKIvNyJ7JUPdLUNj-v0QCLMYyST4sXukxX82--cl31Szv2YqgnwXeWrduY-97lXS57tr-g_GL8lZYiCRaHUM8B1K9pg?width=600&height=600&cropmode=none",
+        "logo": "https://dsm01pap004files.storage.live.com/y4m6OSxck5TkqZ3clDyDHYtMvYfF43WdRLMZV8loArH_S5UsZliLPYrnzIxniLR_r2OB4TRnLRIrZkD__1QUHv1G9Kq7aAkq5kItNnfFEZJ_x_w2hn-hmXgOCIcn2YGUPQGnmfEIeW0tYJsoOTsOLRdQH2ixcBWpOBuW0wNyZtvb9h7aGxXry7lqfayg6Cb6PSA?width=256&height=256&cropmode=none",
         "period": "2013.09 - 2017.07",
         "projects": []
     }
