@@ -23,7 +23,7 @@
             {
                 "title": "GPS coordinate correction system",
                 "period": "2019.06-2019.09",
-                "desc": "Using Scala language, based on OpenStreetMap (global road map) and vehicle GPS equipment data, a design based onTime-series GPS correction system with Viterbi algorithm and real-time update to Hive database"
+                "desc": "Using Scala, based on OpenStreetMap (global road map) and vehicle GPS equipment data, a design based onTime-series GPS correction system with Viterbi algorithm and real-time update to Hive database"
             }
         ]
     },
