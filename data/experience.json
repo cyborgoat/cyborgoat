@@ -6,7 +6,16 @@
         "period": "2020.09 - Present",
         "end": "present",
         "projects": [
-
+            {
+                "title": "Intelligent Incident Management System",
+                "period": "2021.01-2021.12",
+                "desc": "Lead the team designed a data-driven algorithm for router alarm clustering, incident tracking & root cause analyzing system with high flexibility which can adapt in different network environments"
+            },
+            {
+                "title": "Handbook Knowledge Extraction",
+                "period": "2022.01-2022.06",
+                "desc": "Coming soon..."
+            }
         ]
     },
     {
