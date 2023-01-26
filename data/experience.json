@@ -8,19 +8,6 @@
         "projects": []
     },
     {
-        "org": "NIO Inc.",
-        "role": "Algorithm Engineer Intern",
-        "logo": "https://dsm01pap004files.storage.live.com/y4mJPVFbWUGdyK7Rejuad_o5b1V4_Y4_0oI38eTDX2QqcCXoEoUjaeU04BuaYk86zwsnwJuPUlt87X-1cwCL88f5I7xuGCd7zMkeAxi-9YqERSbzrg5JutMZ6KbNAEqQvkhReebmlxwb51Nuod1oBgTblWUkbVqly-rRtesmCpdMADXwjOvL4_Mmj9DLgmDvhhp?width=256&height=171&cropmode=none",
-        "period": "2019.6-2019.9",
-        "projects": [
-            {
-                "title": "GPS coordinate correction system",
-                "period": "2019.06-2019.09",
-                "desc": "Using Scala, based on OpenStreetMap (global road map) and vehicle GPS equipment data, a design based onTime-series GPS correction system with Viterbi algorithm and real-time update to Hive database"
-            }
-        ]
-    },
-    {
         "org": "Carnegie Mellon University",
         "role": "M.S. in Electrical and Computer Engineering",
         "logo": "https://dsm01pap004files.storage.live.com/y4mtA5bVoF_nKjcFQa5W4zt_QNVJdE_EQRpwQMkDLYM-lfITVV2nRS7TlHJzXtE5mGH3w2ei0HBvVuPCDEIzexbJg-IxDqi0T6KGx4z7yKIvNyJ7JUPdLUNj-v0QCLMYyST4sXukxX82--cl31Szv2YqgnwXeWrduY-97lXS57tr-g_GL8lZYiCRaHUM8B1K9pg?width=600&height=600&cropmode=none",
@@ -63,6 +50,19 @@
                 "title": "EEG Signal Processing Survey",
                 "period": "2018.10-2018.12",
                 "desc": "Participated in the research on the extraction and classification of EEG signal features in recent years, and summarized related algorithms"
+            }
+        ]
+    },
+    {
+        "org": "NIO Inc.",
+        "role": "Algorithm Engineer Intern",
+        "logo": "https://dsm01pap004files.storage.live.com/y4mJPVFbWUGdyK7Rejuad_o5b1V4_Y4_0oI38eTDX2QqcCXoEoUjaeU04BuaYk86zwsnwJuPUlt87X-1cwCL88f5I7xuGCd7zMkeAxi-9YqERSbzrg5JutMZ6KbNAEqQvkhReebmlxwb51Nuod1oBgTblWUkbVqly-rRtesmCpdMADXwjOvL4_Mmj9DLgmDvhhp?width=256&height=171&cropmode=none",
+        "period": "2019.6-2019.9",
+        "projects": [
+            {
+                "title": "GPS coordinate correction system",
+                "period": "2019.06-2019.09",
+                "desc": "Using Scala, based on OpenStreetMap (global road map) and vehicle GPS equipment data, a design based onTime-series GPS correction system with Viterbi algorithm and real-time update to Hive database"
             }
         ]
     },
