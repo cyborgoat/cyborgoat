@@ -21,19 +21,24 @@
         "period": "2019.01 - 2020.06",
         "projects": [
             {
-                "period": "2020.01 - 2020.02",
                 "title": "Assembly Interpreter",
+                "period": "2020.01 - 2020.02",
                 "desc": "Disigned a system able to parse and execute programs written in the assembly language, and modeling the behavior of the programs as if they were executing on a simple computer processor. The system also involved memory allocations and extensive Junit tests."
             },
             {
-                "period": "2020.01 - 2020.02",
                 "title": "Cryptarithm Solver",
+                "period": "2020.01 - 2020.02",
                 "desc": "Constructed a cryptarithm solver system. The system includes context parser, an efficient general-purpose permutation generator using Heap's algorithm, a context expression converter, a calculation operator and a solver to get all the results to decode the cryptarithm."
             },
             {
-                "period": "2019.09 - 2019.12",
                 "title": "AOD-DC Image Dehaze Network",
+                "period": "2019.09 - 2019.12",
                 "desc": "Proposed an image dehaze system by combining a convolutional neural network (CNN) with dark channel prior named AOD-DC. Achieved a good visualized dehazing result from blurry images using Google Street View and NYU Depth V2 dataset."
+            },
+            {
+                "title": "End-to-End speech to text transcription System",
+                "period": "2019.10-2019.12",
+                "desc":"Designed an end-to-end system for speech to text transcription with combination of techniques of LSTM, CNN, Encoder, Decododer and Attention method for WSJ dataset, the final result achieved less than 10 Levenshtein distance on test dataset after 60 epochs."
             }
         ]
     },
@@ -42,13 +47,7 @@
         "role": "Research Assistant at Chongqing Big Data Lab",
         "logo": "https://dsm01pap004files.storage.live.com/y4mtA5bVoF_nKjcFQa5W4zt_QNVJdE_EQRpwQMkDLYM-lfITVV2nRS7TlHJzXtE5mGH3w2ei0HBvVuPCDEIzexbJg-IxDqi0T6KGx4z7yKIvNyJ7JUPdLUNj-v0QCLMYyST4sXukxX82--cl31Szv2YqgnwXeWrduY-97lXS57tr-g_GL8lZYiCRaHUM8B1K9pg?width=600&height=600&cropmode=none",
         "period": "2018.05 - 2018.12",
-        "projects": [
-            {
-                "period": "2013.09 - 2017.07",
-                "title": "",
-                "desc": ""
-            }
-        ]
+        "projects": []
     },
     {
         "org": "Drexel University",
