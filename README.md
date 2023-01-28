@@ -2,4 +2,4 @@
 - 👨🏻‍💻 I'm a senior AI algorithm engineer
 - 👀 I'm interested in Natural Language Processing, Machine Learn and Deep Learning.
 - 💞️ I'm also a full stack enthusiast.
-- 📫 If you want to know more about me, you can visit my personal website at ![my-website](www.cyborgoat.com)
+- 📫 If you want to know more about me, you can visit my personal website at [http://www.cyborgoat.com](http://www.cyborgoat.com)
