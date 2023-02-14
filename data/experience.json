@@ -1,10 +1,10 @@
 [
     {
-        "org": "HUAWEI Technologies",
+        "institute": "HUAWEI Technologies",
         "role": "Senior Algorithm Engineer",
         "logo": "https://dsm01pap004files.storage.live.com/y4m7QWl2lyLJwg27GWfhEfJlLrJQk6M-6sszvxZY27V1mw34L24sU4P_1zG0-Bs7LdySyA34uaDIG-axOjkV6_wfY8UWKXGgxbK7xa-fW8dX73fUnL0Aso8B1uM6IenayDwmrUKhRQtiO8Gk1HA3naxejPlPX9hu_jBAy9i9M7ShMwAH8_UYR0eyF1UVJ4zmvnt?width=1920&height=1920&cropmode=none",
-        "period": "2020.09 - Present",
-        "end": "present",
+        "start": "2020-09-01",
+        "end": "2099-12-31",
         "projects": [
             {
                 "title": "Intelligent Incident Management System",
@@ -19,10 +19,11 @@
         ]
     },
     {
-        "org": "Carnegie Mellon University",
+        "institute": "Carnegie Mellon University",
         "role": "M.S. in Electrical and Computer Engineering",
         "logo": "https://dsm01pap004files.storage.live.com/y4mtA5bVoF_nKjcFQa5W4zt_QNVJdE_EQRpwQMkDLYM-lfITVV2nRS7TlHJzXtE5mGH3w2ei0HBvVuPCDEIzexbJg-IxDqi0T6KGx4z7yKIvNyJ7JUPdLUNj-v0QCLMYyST4sXukxX82--cl31Szv2YqgnwXeWrduY-97lXS57tr-g_GL8lZYiCRaHUM8B1K9pg?width=600&height=600&cropmode=none",
-        "period": "2019.01 - 2020.06",
+        "start": "2019-01-03",
+        "end": "2020-06-30",
         "projects": [
             {
                 "title": "Assembly Interpreter",
@@ -47,10 +48,11 @@
         ]
     },
     {
-        "org": "NIO Inc.",
+        "institute": "NIO Inc.",
         "role": "Algorithm Engineer Intern",
         "logo": "https://dsm01pap004files.storage.live.com/y4mJPVFbWUGdyK7Rejuad_o5b1V4_Y4_0oI38eTDX2QqcCXoEoUjaeU04BuaYk86zwsnwJuPUlt87X-1cwCL88f5I7xuGCd7zMkeAxi-9YqERSbzrg5JutMZ6KbNAEqQvkhReebmlxwb51Nuod1oBgTblWUkbVqly-rRtesmCpdMADXwjOvL4_Mmj9DLgmDvhhp?width=256&height=171&cropmode=none",
-        "period": "2019.06-2019.09",
+        "start": "2019-06-15",
+        "end": "2019-08-25",
         "projects": [
             {
                 "title": "GPS coordinate correction system",
@@ -60,10 +62,11 @@
         ]
     },
     {
-        "org": "Chinese Academy of Sciences",
+        "institute": "Chinese Academy of Sciences",
         "role": "Research Assistant at Chongqing Big Data Lab",
         "logo": "https://dsm01pap004files.storage.live.com/y4mMfooCH4erg4jWiIXMguevWptM1ncu3yezLwUhQZNd1dxqdYGQQhDXfbVSzay9SZ5WTwppetkuZ0zLhXvw6NWDLtjHwkOF_CHKffTlTLmPNFcAdJcflxXS8_9Laf06fIB-uOmKC_4j-kC2Az6gPVJHpKOoPXKh6B3X8KWO-vddpE_hMzftYMNEr10l4aaFuNV?width=233&height=217&cropmode=none",
-        "period": "2018.05 - 2018.12",
+        "start": "2018-05-15",
+        "end": "2018-12-25",
         "projects": [
             {
                 "title": "Movie Recommender System",
@@ -78,10 +81,11 @@
         ]
     },
     {
-        "org": "Drexel University",
+        "institute": "Drexel University",
         "role": "B.S in Physics",
         "logo": "https://dsm01pap004files.storage.live.com/y4m6OSxck5TkqZ3clDyDHYtMvYfF43WdRLMZV8loArH_S5UsZliLPYrnzIxniLR_r2OB4TRnLRIrZkD__1QUHv1G9Kq7aAkq5kItNnfFEZJ_x_w2hn-hmXgOCIcn2YGUPQGnmfEIeW0tYJsoOTsOLRdQH2ixcBWpOBuW0wNyZtvb9h7aGxXry7lqfayg6Cb6PSA?width=256&height=256&cropmode=none",
-        "period": "2013.09 - 2017.07",
+        "start": "2013-09-15",
+        "end": "2017-06-30",
         "projects": []
     }
 ]
