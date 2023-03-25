@@ -18,8 +18,7 @@ from dotenv import load_dotenv
 
 logging.basicConfig(encoding='utf-8', level=logging.INFO)
 
-env_path = Path('.', '.env')
-load_dotenv(env_path)
+load_dotenv()
 
 API_ENDPOINT = os.environ.get("API_ENDPOINT")
 API_TOKEN = os.environ.get("API_TOKEN")
