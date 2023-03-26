@@ -34,3 +34,6 @@ with open(Path.cwd().parent.joinpath('data/experience.json'), 'r', encoding='utf
                                  timeout=300)
         if response.status_code != 201:
             logging.error("Failed to post experience.")
+        else:
+            logging.info("%s-%s updated",
+                         exp.get('institute'), exp.get('role'))
