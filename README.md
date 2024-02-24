@@ -2,4 +2,4 @@
 - 👨🏻‍💻 I'm a senior AI algorithm engineer
 - 👀 I'm interested in Natural Language Processing, Machine Learn and Deep Learning.
 - 💞️ I'm also a full stack enthusiast.
-- 📫 If you want to know more about me, you can visit my personal website at [http://www.junxiaoguo.com](http://www.junxiaoguo.com)
+- 📫 If you want to know more about me, you can visit my personal website at [https://cyborgoat.github.io/g-cave/](https://cyborgoat.github.io/g-cave/)
