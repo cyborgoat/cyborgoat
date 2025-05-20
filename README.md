@@ -52,14 +52,6 @@ These are projects currently under active development:
     <strong>🔗 [View on GitHub](https://github.com/cyborgoat/SimpleLM)</strong>
     </details>
 
-* <details>
-    <summary><strong>🗺️ DayRider</strong></summary>
-    <br>
-    A travel planning application that helps users find the best routes and activities.
-    <br>
-    <strong>🔗 [View on GitHub](https://github.com/cyborgoat/dayrider)</strong>
-    </details>
-
 ### Completed Milestones ✅
 
 These projects have reached completion:
