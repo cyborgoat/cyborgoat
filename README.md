@@ -1,16 +1,22 @@
-## Hi there 👋
+# Cyborgoat's Portfolio 🚀🐐
 
-<!--
-**cyborgoat/cyborgoat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I showcase my projects, blogs, and experiments in AI/ML, real-time web architectures, and creative applications. 
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some of my projects. Check out their repositories for more details!
+
+**[AOD-DC-Net](https://github.com/cyborgoat/AOD-DC-Net) 🧠**
+**[Company Website Template](https://github.com/cyborgoat/company-website-template) 🏢**
+**[SimpleLM](https://github.com/cyborgoat/SimpleLM) 📚**
+**[DayRider](https://github.com/cyborgoat/dayrider) 🚴‍♂️**
+**[LLM Workflow Agent Template](https://github.com/cyborgoat/llm-workflow-agent-template) 🤖**
+
+## About Me
+
+I'm passionate about leveraging technology to build innovative solutions. You can find more about my work and thoughts on my [personal website/portfolio](https://cyborgoat.github.io/) and [blog](https://cyborgoat.github.io/blog).
+
+## Get in Touch
+
+* **GitHub:** [cyborgoat](https://github.com/cyborgoat) 🐙
+* **LinkedIn:** [junxiaog](https://linkedin.com/in/junxiaog) 💼
