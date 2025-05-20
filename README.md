@@ -1,10 +1,3 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="YOUR_DARK_MODE_BANNER_URL_HERE">
-    <img alt="Cyborgoat Banner" src="YOUR_LIGHT_MODE_BANNER_URL_HERE" width="800">
-  </picture>
-</p>
-
 <h1 align="center">Cyborgoat's Portfolio 🚀🐐</h1>
 
 <p align="center">
