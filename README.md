@@ -48,7 +48,7 @@ I enjoy building and experimenting with new technologies. Here's a glimpse into 
 These are projects currently under active development:
 
 - <details>
-    <summary><strong>🚀 LLM Workflow Agent Template</strong> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)</summary>
+    <summary><strong>🚀 LLM Workflow Agent Template</strong></summary>
     <br>
     A minimal agentic LLM web app built with Next.js 15, featuring a chat interface and a visual workflow editor for AI agent flows.
     <br>
@@ -56,7 +56,7 @@ These are projects currently under active development:
     </details>
 
 - <details>
-    <summary><strong>🏢 Company Website Template</strong> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)</summary>
+    <summary><strong>🏢 Company Website Template</strong></summary>
     <br>
     A responsive website template for companies, built with modern web technologies.
     <br>
@@ -64,7 +64,7 @@ These are projects currently under active development:
     </details>
 
 - <details>
-    <summary><strong>🧠 SimpleLM</strong> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)</summary>
+    <summary><strong>🧠 SimpleLM</strong></summary>
     <br>
     A simple language model implementation for educational purposes.
     <br>
@@ -72,7 +72,7 @@ These are projects currently under active development:
     </details>
 
 - <details>
-    <summary><strong>💬 Omnichat</strong> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)</summary>
+    <summary><strong>💬 Omnichat</strong></summary>
     <br>
     A modern chat application for interacting with multiple AI models from different providers. Available as both a web app and desktop application.
     <br>
@@ -80,7 +80,7 @@ These are projects currently under active development:
     </details>
 
 - <details>
-    <summary><strong>🚴 Dayrider</strong> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)</summary>
+    <summary><strong>🚴 Dayrider</strong></summary>
     <br>
     A project related to daily riding or tracking activities. (Please refine description)
     <br>
@@ -88,7 +88,7 @@ These are projects currently under active development:
     </details>
 
 - <details>
-    <summary><strong>🤖 MonoLLM</strong> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)</summary>
+    <summary><strong>🤖 MonoLLM</strong></summary>
     <br>
     A project focused on a monolithic Large Language Model approach. (Please refine description)
     <br>
