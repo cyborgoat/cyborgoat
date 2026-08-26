@@ -48,51 +48,35 @@ I enjoy building and experimenting with new technologies. Here's a glimpse into 
 These are projects currently under active development:
 
 - <details>
-    <summary><strong>🚀 LLM Workflow Agent Template</strong></summary>
+    <summary><strong>🪺 Nest</strong></summary>
     <br>
-    A minimal agentic LLM web app built with Next.js 15, featuring a chat interface and a visual workflow editor for AI agent flows.
+    A local-first desktop knowledge workspace for reading, editing, and searching Markdown knowledge packs via retrieval-augmented chat with OpenAI-compatible LLMs. Built with Tauri v2 + React, a NestJS Hub API, and FastEmbed + SQLite FTS for offline retrieval.
     <br>
-    <strong>🔗 [View on GitHub](https://github.com/cyborgoat/llm-workflow-agent-template)</strong>
+    <strong>🔗 [View on GitHub](https://github.com/cyborgoat/nest)</strong>
     </details>
 
 - <details>
-    <summary><strong>🏢 Company Website Template</strong></summary>
+    <summary><strong>🧩 Quizzy</strong></summary>
     <br>
-    A responsive website template for companies, built with modern web technologies.
+    A Tauri v2 desktop quiz application for organizing and tracking learning through local JSON-based quizzes, with study goal tracking, attempt history, a mistake log, and integrated markdown notes — fully private, local-only data.
     <br>
-    <strong>🔗 [View on GitHub](https://github.com/cyborgoat/company-website-template)</strong>
+    <strong>🔗 [View on GitHub](https://github.com/cyborgoat/quizzy)</strong>
     </details>
 
 - <details>
-    <summary><strong>🧠 SimpleLM</strong></summary>
+    <summary><strong>🎙️ Finch</strong></summary>
     <br>
-    A simple language model implementation for educational purposes.
+    A privacy-focused voice transcription app that runs locally using Qwen3-ASR-1.7B, with optional LLM post-processing (OpenRouter, OpenAI, Anthropic, or compatible endpoints). FastAPI backend, TanStack Start frontend, speaker diarization, and persistent voiceprint profiles.
     <br>
-    <strong>🔗 [View on GitHub](https://github.com/cyborgoat/SimpleLM)</strong>
+    <strong>🔗 [View on GitHub](https://github.com/cyborgoat/finch)</strong>
     </details>
 
 - <details>
-    <summary><strong>💬 Omnichat</strong></summary>
+    <summary><strong>🗄️ Cubicles</strong></summary>
     <br>
-    A modern chat application for interacting with multiple AI models from different providers. Available as both a web app and desktop application.
+    A Python agent workbench for human-guided AI collaboration, with persistent sessions, inspectable workflows, explicit tool approvals, and both CLI and web interfaces. Supports multiple LLM providers including Ollama and OpenAI-compatible services.
     <br>
-    <strong>🔗 [View on GitHub](https://github.com/cyborgoat/omnichat)</strong>
-    </details>
-
-- <details>
-    <summary><strong>🚴 Dayrider</strong></summary>
-    <br>
-    A project related to daily riding or tracking activities. (Please refine description)
-    <br>
-    <strong>🔗 [View on GitHub](https://github.com/cyborgoat/dayrider)</strong>
-    </details>
-
-- <details>
-    <summary><strong>🤖 MonoLLM</strong></summary>
-    <br>
-    A project focused on a monolithic Large Language Model approach. (Please refine description)
-    <br>
-    <strong>🔗 [View on GitHub](https://github.com/cyborgoat/MonoLLM)</strong>
+    <strong>🔗 [View on GitHub](https://github.com/cyborgoat/cubicles)</strong>
     </details>
 
 ### Completed Milestones ✅
