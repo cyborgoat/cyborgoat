@@ -12,10 +12,9 @@
 
 - [📝 Table of Contents](#-table-of-contents)
 - [👋 About Me](#-about-me)
-- [🌟 Featured Project: Swarm](#-featured-project-swarm)
+- [🌟 Featured Projects: Nest \& Quizzy](#-featured-projects-nest--quizzy)
 - [🛠️ Projects Showcase](#️-projects-showcase)
   - [Ongoing Ventures 🌱](#ongoing-ventures-)
-  - [Completed Milestones ✅](#completed-milestones-)
 - [💡 My Tech Stack \& Skills](#-my-tech-stack--skills)
 - [📊 GitHub Stats](#-github-stats)
 - [📬 Get in Touch](#-get-in-touch)
@@ -31,11 +30,11 @@ You can find more about my work and thoughts on my:
 - **[Personal Website/Portfolio](https://cyborgoat.github.io/)** 🌐
 - **[Blog](https://cyborgoat.github.io/blog)** ✍️
 
-## 🌟 Featured Project: Swarm
+## 🌟 Featured Projects: Nest & Quizzy
 
-Dive into **Swarm**, a powerful CLI-based agent designed for interactive web browsing, intelligent automation, and deep research with seamless LLM integration. This project offers a transparent and controllable way to interact with the web.
+Dive into **[Nest](https://github.com/cyborgoat/nest)**, a local-first desktop knowledge workspace for reading, editing, and searching Markdown knowledge packs via retrieval-augmented chat with OpenAI-compatible LLMs — built with Tauri v2 + React and a NestJS Hub API.
 
-**[Explore Swarm on GitHub](https://github.com/cyborgoat/swarm)**
+Check out **[Quizzy](https://github.com/cyborgoat/quizzy)**, a Tauri v2 desktop quiz app for organizing and tracking learning with study goals, attempt history, a mistake log, and integrated markdown notes — all data stored fully locally and privately.
 
 ---
 
@@ -77,26 +76,6 @@ These are projects currently under active development:
     A Python agent workbench for human-guided AI collaboration, with persistent sessions, inspectable workflows, explicit tool approvals, and both CLI and web interfaces. Supports multiple LLM providers including Ollama and OpenAI-compatible services.
     <br>
     <strong>🔗 [View on GitHub](https://github.com/cyborgoat/cubicles)</strong>
-    </details>
-
-### Completed Milestones ✅
-
-These projects have reached completion:
-
-- <details>
-    <summary><strong>🌫️ AOD-DC-Net</strong></summary>
-    <br>
-    An end-to-end image dehazing system using a lightweight CNN and dark channel prior.
-    <br>
-    <strong>🔗 [View on GitHub](https://github.com/cyborgoat/AOD-DC-Net)</strong>
-    </details>
-
-- <details>
-    <summary><strong>📍 Map Matching</strong></summary>
-    <br>
-    A project focused on matching GPS data to a map for improved navigation and tracking.
-    <br>
-    <strong>🔗 [View on GitHub](https://github.com/cyborgoat/map-matching)</strong>
     </details>
 
 ---
